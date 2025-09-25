@@ -1,0 +1,8 @@
+{
+  "name": "GrocerGenie",
+  "description": "An intelligent grocery management app powered by Gemini. It helps you create shopping lists, track your pantry, and discover new recipes, making your grocery trips smarter and more efficient.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
