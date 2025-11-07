@@ -212,7 +212,7 @@ const SettingsView: React.FC<{
                 <div className="p-4 bg-card-light dark:bg-card-dark border border-appBorder-light dark:border-appBorder-dark rounded-lg space-y-4">
                     <p className="text-center text-sm text-appTextMuted-light dark:text-appTextMuted-dark">
                         Developed & Maintained by <br />
-                        <strong className="text-appText-light dark:text-appText-dark">Mohammed Rasheek M</strong> & <strong className="text-appText-light dark:text-appText-dark">Hashid Sharaf Koori</strong>
+                        <strong className="text-appText-light dark:text-appText-dark"><a href="https://devmonix.io">DevMonix Technologies</a></strong>
                     </p>
 
                     <div className="space-y-2">
