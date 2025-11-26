@@ -140,7 +140,7 @@ const AddRecipeModal: React.FC<{
                         />
                     </div>
                     <div>
-                        <label htmlFor="instructions" className="block text-sm font-medium text-appTextMuted-light dark:text-appTextMuted-dark mb-1">Instructions (one per line):</label>
+                        <label htmlFor="instructions" className="block text-sm font-medium text-appTextMuted-light dark:text-appTextMuted-dark mb-1">Instructions (one per line)</label>
                         <textarea
                             id="instructions"
                             value={instructions}
